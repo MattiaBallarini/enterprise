@@ -1,0 +1,15 @@
+:host {
+  mat-sidenav-container {
+    height: 100%;
+    width: 100%;
+  }
+
+  mat-sidenav-container {
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right: 20;
+  }
+
+}
