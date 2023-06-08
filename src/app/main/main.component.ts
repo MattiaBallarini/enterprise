@@ -9,12 +9,12 @@ export class MainPageComponent {
 
   opened: boolean = true
 
-
   sidebarToggle = (): void => {
 
     console.log(this.opened)
     this.opened = !this.opened
     console.log(this.opened)
   }
+
 
 }
